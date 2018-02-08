@@ -22,3 +22,10 @@ hr{
 	max-width: 960px;
 	margin: 0 auto;
 }
+table{
+	margin: 50px auto;
+}
+table td{
+	width: 20px;
+	height: 20px;
+}
