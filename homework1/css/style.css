@@ -26,6 +26,9 @@ table{
 	margin: 50px auto;
 }
 table td{
-	width: 20px;
-	height: 20px;
+	background: #ddd;
+	width: auto;
+	min-width: 30px;
+	height: 30px;
+	max-width: 100px;
 }
